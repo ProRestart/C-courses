@@ -3,5 +3,5 @@
 int main()
 {
   std::cout << "Hello, user!";
-  return 0; // Возвратим ОС "код результата работы".
+  return 0;
 }
